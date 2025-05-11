@@ -27,7 +27,7 @@
 ### 영어 음성 생성 예시
 
 * **텍스트:** "Hello, I'm Bae Min-ha and I want to get a job in skcc."
-* **URL (텍스트 URL 인코딩 적용):**
+* **URL:**
   ```
   https://sk072-tts.skala25a.project.skala-ai.com/api/tts/generate?text=Hello, I'm Bae Min-ha and I want to get a job in skcc.&lang=en
   ```
